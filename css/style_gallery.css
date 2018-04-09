@@ -1,0 +1,28 @@
+body {
+		background-color: lemonchiffon;
+}
+
+h1 a {
+    color: crimson;
+    font-size: 85pt; 
+    font-family: haettenschweiler;
+    width: 1000px;
+    text-decoration: none;
+    }
+
+h1 a:hover {
+    color: #FFA500;
+    text-decoration: none;
+} 
+h2 { 
+	color: darkslateblue;
+	font-size: 50pt; 
+    font-family: haettenschweiler; 
+ 	}
+ 	
+
+    a:hover{
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}

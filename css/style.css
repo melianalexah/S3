@@ -1,0 +1,86 @@
+body {
+		background-color: lemonchiffon;
+		font-family: helvetica;
+}
+
+h1{
+	color: crimson;
+	font-size: 90pt; 
+    font-family: haettenschweiler;
+
+}
+
+a {
+	color: crimson;
+}
+a:hover{
+    color: #FFA500;
+    text-decoration: underline;
+} 
+
+ul li{
+	float: right;
+	font-family: Helvetica;
+	font-size: 15pt;
+	list-style: none;
+	color: darkslateblue ;
+	font-weight: bold;
+	overflow: hidden;
+	padding: 15px;
+	width: 150px;
+
+	}
+
+aside {
+	width: 500px;
+
+
+}
+aside ol {
+	float:left;
+	font-family: Helvetica;
+	font-size: 15pt;
+	list-style: none;
+	color: darkslateblue ;
+	font-weight: bold;
+
+	}
+
+ 
+section {
+	float: right; 
+    text-justify:inter-word;
+	color: #FF5733;
+	width: 1300px;
+
+  }
+
+ h2{
+ 	float: right;
+ 	font-family: helvetica;
+ 	Color: crimson;
+ }
+
+h4 {
+	float: right;
+	color: crimson;
+	font-family: helvetica;
+	text-align: justify-all;
+}
+
+p {
+	float: right;
+	font-family: helvetica;
+	text-align: justify-all;
+
+}
+
+ footer {
+ color: coral;
+ font-family: helvetica;
+ position: fixed;
+ bottom: 0;
+ width: 100%;
+
+}
+ 
